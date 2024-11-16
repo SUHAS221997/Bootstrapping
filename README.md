@@ -8,13 +8,13 @@ The Diabetes Dataset contains information related to clinical features and test 
 
 Features:
 
-Pregnancies: Number of times pregnant
-Glucose: Plasma glucose concentration
-BloodPressure: Diastolic blood pressure (mm Hg)
-SkinThickness: Triceps skinfold thickness (mm)
-Insulin: Serum insulin (mu U/ml)
-BMI: Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction: Diabetes pedigree function (genetic influence)
-Age: Age in years
-Outcome: Target variable (1 for diabetes, 0 for non-diabetes)
+1. Pregnancies: Number of times pregnant
+2. Glucose: Plasma glucose concentration
+3. BloodPressure: Diastolic blood pressure (mm Hg)
+4. SkinThickness: Triceps skinfold thickness (mm)
+5. Insulin: Serum insulin (mu U/ml)
+6. BMI: Body mass index (weight in kg/(height in m)^2)
+7. DiabetesPedigreeFunction: Diabetes pedigree function (genetic influence)
+8. Age: Age in years
+9. Outcome: Target variable (1 for diabetes, 0 for non-diabetes)
 
